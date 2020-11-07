@@ -16,6 +16,5 @@ public class GitintegrationApplication {
 
     public static void main(String[] args) throws GitAPIException {
         SpringApplication.run(GitintegrationApplication.class, args);
-        
     }
 }
